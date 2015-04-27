@@ -20,4 +20,4 @@ wp-content/plugins/*
 .vagrant/
 puppet/
 files/
-vagrantfile
+Vagrantfile
